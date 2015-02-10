@@ -25,6 +25,7 @@ class CompareCharArrays
                     areTheSame = true;
                 }
             }
+
             if (areTheSame)
             {
                 Console.WriteLine("The arrays are the same!");
